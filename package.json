@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-table-html-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "tsc && node dist/index"
+  },
+  "author": "",
+  "license": "ISC"
+}
